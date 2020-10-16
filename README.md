@@ -27,6 +27,8 @@ Date,Counter Party,Reference,Type,Amount (GBP),Balance (GBP)
 03/04/2018,Company B,BILL 54312,CHAPS,-500.20,750.30
 ```
 
+> **Note:** Sometimes the _Opening Balance_ line is not included in the CSV. This tool automatically skips the _Opening Balance_ line if it is included in the input CSV.
+
 Then run 
 
 ```
